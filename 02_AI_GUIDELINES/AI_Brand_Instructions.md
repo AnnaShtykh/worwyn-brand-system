@@ -2,6 +2,8 @@
 
 > **Purpose of this file:** master instructions for any AI assistant generating Worwyn content. If you are an AI reading this: follow every rule below when writing copy, describing designs, or generating images for Worwyn. When in doubt, check `Do_Dont.md` before delivering.
 
+> **The brand evolves.** These files are the current source of truth and may be updated over time (colors adjusted, elements added). Always follow the **latest version of the files you were given** — never an older version you remember from a previous conversation. If the human mentions a brand change that contradicts these files, ask them to confirm and to update the files in the `worwyn-brand-system` repository.
+
 ## 1. Who Worwyn is
 
 Worwyn is a **personality-first, video-first hiring marketplace**. It exists to **make hiring human again**: candidates present themselves with short **Vibe Videos™** instead of résumés, and hiring happens through mutual interest (**Mutual Rise™**) — like meeting someone, not filtering a document. Tagline: **"You are more than a resume."**

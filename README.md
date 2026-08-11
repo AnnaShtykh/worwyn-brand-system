@@ -29,6 +29,19 @@ Worwyn exists to **make hiring human again**. Résumés don't show personality �
 
 **Core facts:** Primary green `#00993A` · Typeface **Instrument Sans** (Semibold 600 headlines / Regular 400 body) · Origami folded-paper "W" mark · Tagline *"You are more than a resume"*
 
+## This is a living system
+
+The brand book itself invites it: *evolve the product and generate more designs from these fundamental components.* This repository is a **snapshot, not a cage** — colors may be adjusted, new assets, templates, or platforms may be added, and rules may be refined as Worwyn grows.
+
+When something changes, follow this order:
+
+1. **Change it here first.** This repo is the single source of truth. Update the relevant file (`Colors.md` for a palette change, `00_ASSETS/` for new assets, a new guide in `03_CONTENT_SYSTEM/` for a new platform…) — ideally via a pull request so there's a record of what changed and why.
+2. **Keep files consistent.** A color change touches more than one file: `Colors.md`, the swatch in `00_ASSETS/colors/`, `AI_Brand_Instructions.md` (section 2), `Master_Prompt.txt`, and any affected templates. Search the repo for the old hex code to catch every mention.
+3. **Re-sync your AI assistants.** Re-upload the changed files to your ChatGPT/Claude project (delete the old copies first) — AI assistants follow the files they were given, not this repo, so they only "learn" changes you re-upload.
+4. **Date it.** Note significant changes in the commit message (e.g., "2027-01: primary green updated to #0FA344 per client request") so anyone can trace the brand's evolution.
+
+Anything not yet covered by these files (a new platform, a new format) isn't forbidden — it's simply undesigned. Design it from the foundations in `01_BRAND_FOUNDATION/` and `02_AI_GUIDELINES/`, then document it here.
+
 ---
 
 *Brand guidelines created by Spaceberry Studio. Brand system repository assembled 2026.*
