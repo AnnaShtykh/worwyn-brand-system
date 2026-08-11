@@ -11,7 +11,7 @@ This repository packages the complete Worwyn brand into files that both **humans
 
 **I'm a designer looking for assets** → Everything is in [`00_ASSETS/`](00_ASSETS/README.md) (logos, patterns, color swatches) and the full brand book is at [`01_BRAND_FOUNDATION/Brandbook.pdf`](01_BRAND_FOUNDATION/Brandbook.pdf).
 
-**I want to make a social post right now** → Grab a ready-made template from [`03_CONTENT_SYSTEM/Templates/`](03_CONTENT_SYSTEM/Templates/README.md) and follow the matching guide (Instagram / LinkedIn / Presentations).
+**I want to make a social post right now** → Follow the matching guide in [`03_CONTENT_SYSTEM/`](03_CONTENT_SYSTEM/) (Instagram / LinkedIn / Presentations) — each defines formats, layouts, and copy formulas, built on the assets in `00_ASSETS/`.
 
 ## Repository map
 
@@ -20,7 +20,7 @@ This repository packages the complete Worwyn brand into files that both **humans
 | [`00_ASSETS/`](00_ASSETS/README.md) | Logo files (transparent PNG), brand patterns, color swatches | Dropping real brand assets into any design tool |
 | [`01_BRAND_FOUNDATION/`](01_BRAND_FOUNDATION/) | The official brand book (single PDF + individual pages), `Colors.md`, `Typography.md`, `Logo.md` | The source of truth for how the brand looks |
 | [`02_AI_GUIDELINES/`](02_AI_GUIDELINES/) | `AI_Brand_Instructions.md`, `Visual_Language.md`, `Tone_of_Voice.md`, `Do_Dont.md` | Teaching an AI assistant to create on-brand content |
-| [`03_CONTENT_SYSTEM/`](03_CONTENT_SYSTEM/) | Instagram, LinkedIn and presentation guides + ready-made PNG templates | Producing actual posts and decks |
+| [`03_CONTENT_SYSTEM/`](03_CONTENT_SYSTEM/) | Instagram, LinkedIn and presentation guides + composition checklist | Producing actual posts and decks |
 | [`04_SETUP/`](04_SETUP/) | Step-by-step AI setup instructions + `Master_Prompt.txt` | One-time setup of your AI content assistant |
 
 ## The brand in one paragraph

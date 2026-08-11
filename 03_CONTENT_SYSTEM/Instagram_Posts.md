@@ -6,12 +6,12 @@ Worwyn on Instagram: where candidates live. Goal — make people feel *seen* and
 
 ## Formats
 
-| Format | Size | Template |
-|---|---|---|
-| Feed post (portrait, default) | 1080×1350 | `Templates/ig-feed-announcement-1080x1350.png` |
-| Feed post (square) | 1080×1080 | `Templates/ig-quote-1080x1080.png` |
-| Carousel cover | 1080×1350 | `Templates/ig-carousel-cover-1080x1350.png` |
-| Story / Reel cover | 1080×1920 | `Templates/ig-story-1080x1920.png` |
+| Format | Size |
+|---|---|
+| Feed post (portrait, default) | 1080×1350 |
+| Feed post (square) | 1080×1080 |
+| Carousel cover | 1080×1350 |
+| Story / Reel cover | 1080×1920 |
 
 ## Post types
 
@@ -35,7 +35,7 @@ Worwyn on Instagram: where candidates live. Goal — make people feel *seen* and
 ## Stories & Reels
 
 - Story bg: zigzag pattern or deep green-black; headline at top third; CTA/link sticker at bottom third (safe zones: 250px top, 310px bottom).
-- Reel covers: story template with title only — legible at thumbnail size.
+- Reel covers: story layout with title only — legible at thumbnail size.
 - Reels themselves follow the video-first spirit: candid, subtitled, vertical, ≤30s.
 
 ## Captions

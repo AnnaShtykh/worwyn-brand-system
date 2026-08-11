@@ -6,13 +6,13 @@ Rules for Worwyn slide decks — investor updates, sales decks, internal reviews
 
 ## Slide types
 
-| Slide | Background | Text | Template |
-|---|---|---|---|
-| **Title** | Off-white `#F7F5F2` | Title 80px Semibold deep green-black; subtitle 32px Regular | `Templates/presentation-title-1920x1080.png` |
-| **Section divider** | Primary green `#00993A` or zigzag pattern | Big number + section name in off-white (like the brand book's "01 Verbal Identity") | adapt title template |
-| **Content** | Off-white | Title 64px Semibold; body 28–32px Regular; green accent line under title | `Templates/presentation-content-1920x1080.png` |
-| **Quote / stat** | Deep green-black `#001F0C` or beige | One quote or one number, huge (120px+), nothing else | adapt content template |
-| **Closing** | W-outline pattern on dark green | "You are more than a resume" + contact, silver mark | adapt title template |
+| Slide | Background | Text |
+|---|---|---|
+| **Title** | Off-white `#F7F5F2` | Title 80px Semibold deep green-black; subtitle 32px Regular |
+| **Section divider** | Primary green `#00993A` or zigzag pattern | Big number + section name in off-white (like the brand book's "01 Verbal Identity") |
+| **Content** | Off-white | Title 64px Semibold; body 28–32px Regular; green accent line under title |
+| **Quote / stat** | Deep green-black `#001F0C` or beige | One quote or one number, huge (120px+), nothing else |
+| **Closing** | W-outline pattern on dark green | "You are more than a resume" + contact, silver mark |
 
 ## Layout rules
 

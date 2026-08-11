@@ -6,11 +6,11 @@ Worwyn on LinkedIn: where employers and recruiters live. Goal — make "feel the
 
 ## Formats
 
-| Format | Size | Template |
-|---|---|---|
-| Feed image (square) | 1200×1200 | `Templates/linkedin-post-1200x1200.png` |
-| Link/article banner | 1200×627 | crop the square template's central band |
-| Document carousel (PDF) | 1080×1350 pages | reuse Instagram carousel layouts |
+| Format | Size |
+|---|---|
+| Feed image (square) | 1200×1200 |
+| Link/article banner | 1200×627 |
+| Document carousel (PDF) | 1080×1350 pages (reuse Instagram carousel layouts) |
 
 ## Post types
 
