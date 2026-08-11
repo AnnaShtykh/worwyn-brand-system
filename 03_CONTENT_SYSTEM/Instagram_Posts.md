@@ -2,6 +2,8 @@
 
 Worwyn on Instagram: where candidates live. Goal — make people feel *seen* and show that hiring can feel human.
 
+> Before designing anything, check [`Composition_Checklist.md`](Composition_Checklist.md): asymmetric, editorial, minimal — never centered-everything, never playful-decorative.
+
 ## Formats
 
 | Format | Size | Template |

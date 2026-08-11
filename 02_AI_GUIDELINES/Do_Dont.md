@@ -14,6 +14,8 @@ The final checklist. Before publishing anything — or if you're an AI, before d
 | Keep the safe area around the logo clear | Crowd the logo with text, patterns, or edges |
 | One pattern per layout, as background only | Stack patterns, or put body text directly on a pattern |
 | One focal point, generous margins | Cluttered layouts, more than one hero element |
+| Asymmetric, editorial layouts with visual tension | Centered everything, equal-sized elements, excessive borders |
+| Sophisticated, contemporary, minimal, confident | Playful, childish, overly decorative, generic, overly corporate |
 | Rounded-corner cards, flat clean shapes | Drop shadows, glows, bevels, 3D text effects, neon gradients |
 | Warm candid photos of real people | Stock handshakes, sterile offices, fake smiles |
 

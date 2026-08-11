@@ -2,6 +2,8 @@
 
 Worwyn on LinkedIn: where employers and recruiters live. Goal — make "feel the fit before the interview" a credible, practical idea.
 
+> Before designing anything, check [`Composition_Checklist.md`](Composition_Checklist.md): asymmetric, editorial, minimal — never centered-everything, never playful-decorative.
+
 ## Formats
 
 | Format | Size | Template |

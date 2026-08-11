@@ -14,6 +14,45 @@ Principles:
 4. **Geometry with soft edges.** Rounded-corner cards (24–48px radius on 1080px canvases), straight grids, no diagonal chaos.
 5. **Paper depth, not effects.** Depth comes from the origami texture in the real assets — never add drop shadows, glows, bevels, or 3D effects to text or shapes.
 
+## Composition
+
+**Prefer:**
+
+- asymmetric layouts
+- generous negative space
+- strong typographic hierarchy
+- editorial image crops
+- intentional visual tension
+
+**Avoid:**
+
+- centered everything
+- equal-sized elements
+- excessive borders
+- random decorative shapes
+
+Centered, symmetric layouts are the deliberate exception (e.g., a quote card), never the default. Build layouts like an editorial spread: a dominant element, an off-axis balance point, and space that's allowed to stay empty.
+
+## Visual personality
+
+**The brand should feel:**
+
+- sophisticated
+- editorial
+- contemporary
+- confident
+- minimal
+
+**The brand should NOT feel:**
+
+- playful
+- childish
+- overly decorative
+- generic
+- overly corporate
+
+The brand is warm, but warmth comes from language and photography — not from decoration. Confetti is a celebration *accent*, used sparingly at real milestone moments: a sophisticated wink, never a party theme.
+
 ## The three patterns (in `00_ASSETS/patterns/`)
 
 | Pattern | File | Feeling | When to use |

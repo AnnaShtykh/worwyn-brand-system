@@ -2,6 +2,8 @@
 
 Rules for Worwyn slide decks — investor updates, sales decks, internal reviews. 16:9 (1920×1080).
 
+> Before designing anything, check [`Composition_Checklist.md`](Composition_Checklist.md): asymmetric, editorial, minimal — never centered-everything, never playful-decorative.
+
 ## Slide types
 
 | Slide | Background | Text | Template |
