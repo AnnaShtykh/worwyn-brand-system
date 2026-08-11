@@ -8,6 +8,7 @@ Real brand asset files extracted from the official Worwyn brand book. Use these 
 |---|---|---|
 | `worwyn-mark-green.png` | Origami "W" mark, signature green, **transparent background** | Light backgrounds (off-white, beige, light green tint) |
 | `worwyn-mark-silver.png` | Origami "W" mark, silver/paper white, **transparent background** | Dark or rich green backgrounds |
+| `worwyn-mark-white.png` | Origami "W" mark, pure white paper, **transparent background** (1080×1080) | Green or dark backgrounds — matches the app's match-screen usage |
 | `worwyn-mark-dark.png` | Origami "W" mark, deep black/dark green, **transparent background** | Light backgrounds when a quieter look is needed |
 | `worwyn-logo-primary-light-bg.png` | Full lockup (mark + gradient wordmark) on white | Primary logo for light surfaces |
 | `worwyn-logo-green-on-beige.png` | Primary lockup on warm beige | Reference for beige surfaces |
