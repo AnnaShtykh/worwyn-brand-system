@@ -1,0 +1,50 @@
+# Visual Language
+
+How Worwyn looks beyond the logo: composition, patterns, imagery, and ready-to-use image-generation prompts.
+
+## The core look
+
+**Folded paper, green energy, human warmth.** Imagine the brand as a physical desk: warm off-white paper surfaces, one vivid green origami object, occasional confetti from a celebration. Digital layouts should feel like that desk — tactile, calm, with one point of energy.
+
+Principles:
+
+1. **One focal point.** Every layout has exactly one hero: a headline, a photo, or the mark. Everything else supports it.
+2. **Green-dominant, light-carried.** Roughly 60% light surface (off-white/beige/tint), 30% green, 10% accent. Full-green layouts are for bold moments only.
+3. **Generous breathing room.** Wide margins (≥8% of canvas per side). If it feels empty, it's probably right.
+4. **Geometry with soft edges.** Rounded-corner cards (24–48px radius on 1080px canvases), straight grids, no diagonal chaos.
+5. **Paper depth, not effects.** Depth comes from the origami texture in the real assets — never add drop shadows, glows, bevels, or 3D effects to text or shapes.
+
+## The three patterns (in `00_ASSETS/patterns/`)
+
+| Pattern | File | Feeling | When to use |
+|---|---|---|---|
+| **W zigzag** | `pattern-w-zigzag-green.png` | Bold, rhythmic, confident | Story backgrounds, campaign covers, section dividers |
+| **Confetti** | `pattern-confetti-offwhite.png` | Celebration, delight | Match announcements, new-hire stories, milestones, welcome posts |
+| **W outline** | `pattern-w-outline-green.png` | Premium, quiet, crafted | Closing slides, stationery, "thank you" moments |
+
+Rules: patterns are backgrounds, never foregrounds. Place text only on calm areas or on a solid block over the pattern. One pattern per layout, never two.
+
+## Imagery & photography
+
+- Real people, candid energy: mid-laugh, mid-conversation, mid-gesture — the moment a Vibe Video™ captures.
+- Natural light, warm tones that harmonize with beige/off-white; subtle green wardrobe/props welcome.
+- Diverse ages, roles, and backgrounds — hiring is for everyone.
+- ❌ Never: sterile stock handshakes, suits-in-glass-towers, dark moody corporate scenes, fake smiles at whiteboards.
+
+## Image-generation prompt snippets
+
+Use these building blocks with image models (Midjourney/DALL-E/etc.):
+
+**Base style suffix (append to any prompt):**
+> …minimal composition, warm off-white background #F7F5F2, vivid green accents #00993A, soft natural light, papery texture, clean geometric layout, generous negative space, no text
+
+**Origami object hero:**
+> A single green origami folded-paper letter W standing on a warm off-white paper surface, studio photography, soft shadows, minimal, brand hero image
+
+**Celebration moment:**
+> Warm candid photo of a person smiling while recording a video of themselves on a phone, natural window light, subtle green and amber paper confetti falling, off-white interior
+
+**Employer moment:**
+> Two people in a bright warm office having a genuine relaxed conversation, natural light, plants, green accents, candid documentary style
+
+Always add: `--no dark corporate office, suits, handshake stock photo, neon, gradients` (or equivalent negative prompt).
