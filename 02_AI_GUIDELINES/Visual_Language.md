@@ -63,6 +63,18 @@ The brand is warm, but warmth comes from language and photography — not from d
 
 Rules: patterns are backgrounds, never foregrounds. Place text only on calm areas or on a solid block over the pattern. One pattern per layout, never two.
 
+## Product UI style (from the real app & landing page)
+
+Social and presentation visuals should feel like siblings of the product. Observed patterns from the shipped screens:
+
+- **Headline highlight:** long headlines are deep green-black with the single key word in primary green ("You're **more** than a resume"). Use this device in hero headlines everywhere.
+- **The Rise icon:** a green flame/leaf drop in a circle is the "Rise" (like) action; a double flame marks a Mutual Rise™. When showing product moments, use these icons — never a heart or thumbs-up.
+- **Cards:** heavily rounded corners (~40–48px radius at app scale), full-bleed candid photography, role label + verification badge overlaid. Profile cards may tilt/rotate slightly for energy (landing page scatters them like dealt cards; one match screen rotates two cards into a "W" echo).
+- **Buttons:** fully rounded pills. Primary = primary green fill, off-white text, optional leading icon. Secondary = beige/off-white fill, deep green-black text. Tertiary = plain text link ("Create Later").
+- **Bold moments:** full primary-green screens with the tonal W zigzag pattern behind white text (e.g., employer onboarding) — reserve for one-screen statements.
+- **Celebration moments:** the match screen is the canonical confetti use: confetti scattered on off-white, green W mark, "It's a match" headline, two photo cards joined by the double-flame badge.
+- **Badges/labels:** small green pills with white text ("Top Match"); white verification rosette on photos.
+
 ## Imagery & photography
 
 - Real people, candid energy: mid-laugh, mid-conversation, mid-gesture — the moment a Vibe Video™ captures.

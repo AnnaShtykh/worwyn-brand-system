@@ -14,7 +14,7 @@ The world's first **personality-first hiring marketplace** — a simple, human, 
 
 > **You are more than a resume**
 
-Use it as a closing line, a hero headline, or a hashtag (`#MoreThanAResume`). Don't paraphrase it into variants.
+Use it as a closing line, a hero headline, or a hashtag (`#MoreThanAResume`). The conversational form **"You're more than a resume"** (as on the product landing page) is the one accepted variant — no other paraphrases. In headlines, set the key word ("more") in primary green.
 
 ## Product terms — write them exactly like this
 
